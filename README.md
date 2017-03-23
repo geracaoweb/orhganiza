@@ -1,3 +1,3 @@
 # API Orhganiza
 
-> Repositório para compartilhar exemplos para integrações
+> Repositório para compartilhar exemplos de integrações
